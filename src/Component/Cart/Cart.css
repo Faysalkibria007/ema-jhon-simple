@@ -1,0 +1,7 @@
+.cart{
+    background-color: salmon;
+    padding: 25px;
+    border-radius: 10px;
+    position: sticky;
+    top: 0;
+}
