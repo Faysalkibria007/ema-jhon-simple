@@ -1,0 +1,26 @@
+.product img{
+    width: 286px;
+    height: 286px;
+margin: 7px;
+border-radius: 10px;
+
+}
+.product{
+    width: 300px;
+    height: 510px;
+    border: 2px solid salmon;
+    border-radius: 10px;
+}
+.p-info{
+    text-align: center;
+}
+.btn-cart{
+    width: 100%;
+    background-color: salmon;
+    border: 1px solid black;
+    border-radius: 0px 0px 8px 8px;
+
+}
+.btn-cart:hover{
+    background-color: rgb(141, 231, 231);
+}
